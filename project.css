@@ -1,0 +1,24 @@
+#logo-cleber {
+  height: 470px;
+}
+.bg-bege {
+  background-color: #faf1e3;
+}
+
+.clebin {
+  color: #4dffa6;
+}
+.cabeca {
+  color: #ffcc00;
+}
+.feature-icon {
+  display: inline-flex;
+  aling-items: center;
+  justify-content: center;
+  width: 4rem;
+  height: 4rem;
+  margin-bottom: 1rem;
+  font-size: 2rem;
+  color: #fff;
+  border-radius: 0.75rem;
+}
