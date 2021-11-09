@@ -1,24 +1,24 @@
-#logo-cleber {
-  height: 470px;
-}
-.bg-bege {
-  background-color: #faf1e3;
-}
+<style>
+    #logo-navbar {
+      height: 470px;
+    }
 
-.clebin {
-  color: #4dffa6;
-}
-.cabeca {
-  color: #ffcc00;
-}
-.feature-icon {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 4rem;
-  height: 4rem;
-  margin-bottom: 1rem;
-  font-size: 2rem;
-  color: #fff;
-  border-radius: 0.75rem;
-}
+    .bg-cleb {
+      background: #c8e165;
+    }
+
+    .feature-icon {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 4rem;
+      height: 4rem;
+      margin-bottom: 1rem;
+      font-size: 2rem;
+      color: #fff;
+      border-radius: 0.75rem;
+      .clebin-espacoicon {
+margin:0 400px;
+    }
+  </style> 
+
