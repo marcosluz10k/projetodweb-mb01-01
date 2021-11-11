@@ -1,4 +1,4 @@
-<style>
+ <style>
     #logo-navbar {
       height: 470px;
     }
@@ -17,8 +17,9 @@
       font-size: 2rem;
       color: #fff;
       border-radius: 0.75rem;
-      .clebin-espacoicon {
-margin:0 400px;
     }
+      .nav-link{
+        display: block;
+        padding:.5rem 10rem;
+      }
   </style> 
-
