@@ -2,7 +2,8 @@
     height: 470px;
   }
   .bg-cleb {
-    background: #c8e165;
+    background-color: #c8e165;
+    
   }
   .feature-icon {
     display: inline-flex;
@@ -15,4 +16,8 @@
     color: #fff;
     border-radius: 0.75rem;
   }
-  
+
+    .nav-link{
+      display: block;
+      padding:.5rem 10rem;
+    }
